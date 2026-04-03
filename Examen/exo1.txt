@@ -1,0 +1,1 @@
+J’ai dupliqué la MainMap sur la branche my-branch, puis, après le rebase avec main, j’ai ajouté cette nouvelle map comme sublevel de la MainMap présente sur main, ca permet à la fois de conserver le contenu des deux maps dans une seule scène finale et de faciliter un travail parallèle, chacun pouvant modifier sa propre map tout en les réunissant ensuite dans un même niveau.
